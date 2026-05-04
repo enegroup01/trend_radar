@@ -1,3 +1,5 @@
+下面是完整可複製貼上的版本，已經把 crypto / Web3 / memecoin / 鏈上安全相關關鍵字整合進去。
+
 ```txt
 # ═══════════════════════════════════════════════════════════════
 #                    TrendRadar 頻率詞設定檔
@@ -200,12 +202,337 @@ NASDAQ
 標普
 S&P 500
 道瓊
+美元
+DXY
+美債
+Treasury
+殖利率
+yield
 比特幣
 Bitcoin
 BTC
 以太坊
 Ethereum
 ETH
+Crypto
+加密貨幣
+ETF
+現貨ETF
+Stablecoin
+穩定幣
+流動性
+Liquidity
+風險資產
+risk asset
+@5
+
+
+# ═══════════════════════════════════════════════════════════════
+#                         Crypto 核心
+# ═══════════════════════════════════════════════════════════════
+
+[Crypto核心]
+比特幣
+Bitcoin
+BTC
+以太坊
+Ethereum
+ETH
+加密貨幣
+Crypto
+Cryptocurrency
+區塊鏈
+Blockchain
+鏈上
+on-chain
+Onchain
+錢包
+Wallet
+巨鯨
+Whale
+聰明錢
+Smart Money
+交易所
+Exchange
+CEX
+DEX
+Binance
+幣安
+Coinbase
+OKX
+Bybit
+Kraken
+Upbit
+ETF
+Bitcoin ETF
+BTC ETF
+Ethereum ETF
+ETH ETF
+現貨ETF
+Spot ETF
+穩定幣
+Stablecoin
+USDT
+USDC
+Tether
+Circle
+礦工
+Miner
+挖礦
+Mining
+減半
+Halving
+質押
+Staking
+流動性
+Liquidity
+@5
+
+
+# ═══════════════════════════════════════════════════════════════
+#                         Web3 / DeFi
+# ═══════════════════════════════════════════════════════════════
+
+[Web3_DeFi]
+Web3
+DeFi
+去中心化金融
+DEX
+AMM
+Uniswap
+Curve
+Aave
+Compound
+MakerDAO
+Sky
+Pendle
+Ethena
+EigenLayer
+Restaking
+再質押
+LST
+LRT
+Liquid Staking
+Layer 2
+L2
+Rollup
+ZK
+zkSync
+Starknet
+Arbitrum
+Optimism
+Base
+Polygon
+Solana
+SOL
+Sui
+Aptos
+Avalanche
+AVAX
+BNB Chain
+Hyperliquid
+perp DEX
+Perpetual
+永續合約
+TVL
+protocol revenue
+協議收入
+fees
+手續費
+airdrop
+空投
+TGE
+代幣生成
+token launch
+token unlock
+代幣解鎖
+治理
+Governance
+DAO
+RWA
+Tokenization
+代幣化
+@5
+
+
+# ═══════════════════════════════════════════════════════════════
+#                         Memecoin / 鏈上熱點
+# ═══════════════════════════════════════════════════════════════
+
+[Memecoin]
+Memecoin
+Meme coin
+Meme coins
+迷因幣
+土狗
+狗狗幣
+Dogecoin
+DOGE
+柴犬幣
+Shiba Inu
+SHIB
+PEPE
+WIF
+dogwifhat
+BONK
+FLOKI
+BOME
+POPCAT
+MEW
+MOG
+TURBO
+NEIRO
+PENGU
+TRUMP
+MELANIA
+Solana meme
+Base meme
+BNB meme
+pump.fun
+Pumpfun
+LetsBonk
+Moonshot
+GMGN
+DexScreener
+DEX Screener
+Birdeye
+Raydium
+Jupiter
+Meteora
+launchpad
+fair launch
+bonding curve
+畢業
+graduated
+市值
+market cap
+交易量
+volume
+流動性池
+liquidity pool
+狙擊
+sniper
+掃鏈
+@5
+
+
+# ═══════════════════════════════════════════════════════════════
+#                         Crypto 重大事件
+# ═══════════════════════════════════════════════════════════════
+
+[Crypto重大事件]
+ETF approval
+ETF inflow
+ETF outflow
+SEC
+CFTC
+lawsuit
+settlement
+listing
+上幣
+CEX listing
+Binance listing
+Coinbase listing
+OKX listing
+funding
+融資
+raises
+raised
+valuation
+估值
+mainnet
+主網
+testnet
+測試網
+airdrop
+空投
+snapshot
+快照
+claim
+TGE
+token launch
+token unlock
+解鎖
+governance proposal
+治理提案
+partnership
+合作
+integration
+整合
+acquisition
+收購
+treasury
+儲備
+buyback
+回購
+burn
+銷毀
+hack
+exploit
+depeg
+脫鉤
+liquidation
+清算
+whale bought
+whale sold
+whale deposit
+whale withdrawal
+@5
+
+
+# ═══════════════════════════════════════════════════════════════
+#                         Crypto 安全 / 風險
+# ═══════════════════════════════════════════════════════════════
+
+[Crypto安全風險]
+hack
+hacked
+駭客
+被盜
+盜幣
+exploit
+漏洞
+攻擊
+attack
+bridge exploit
+跨鏈橋
+bridge hack
+rug pull
+Rugpull
+跑路
+詐騙
+scam
+phishing
+釣魚
+drainer
+wallet drainer
+私鑰
+private key
+seed phrase
+助記詞
+multisig
+多簽
+oracle attack
+預言機攻擊
+flash loan attack
+閃電貸攻擊
+reentrancy
+重入攻擊
+security incident
+安全事件
+audit
+審計
+CertiK
+SlowMist
+慢霧
+PeckShield
+BlockSec
+Chainalysis
+OFAC
+sanction
+制裁
+洗錢
+money laundering
 @5
 
 
@@ -247,6 +574,10 @@ Fed
 Wall Street
 矽谷
 Silicon Valley
+SEC
+CFTC
+Coinbase
+Kraken
 @5
 
 
@@ -269,5 +600,12 @@ Silicon Valley
 人民銀行
 A股
 港股
+香港
+Hong Kong
+幣安
+Binance
+OKX
+HashKey
+OSL
 @5
 ```
